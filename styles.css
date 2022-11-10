@@ -1,0 +1,33 @@
+body {
+    margin: 60px;
+}
+
+.avatar{
+    width: 350px;
+}
+
+.card{
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: dashed;
+    background: #cfbaf0;
+    color: #2b2839;
+    border-bottom: 7px solid #d8cefe;
+    border-radius: 20px;
+    box-shadow: inset;
+}
+
+.border-blue { 
+    border: 1px dotted blueviolet;
+}
+.about-me{
+    text-shadow: #cfbaf0;
+    font-style: italic;
+}
